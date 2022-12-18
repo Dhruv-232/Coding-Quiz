@@ -29,6 +29,6 @@ THEN I can save my initials and score
 
 ![portfolio demo](./assets/images/Screenshot(ss).png)
 
-Link for the website: https://dhruv-232.github.io/Module-1-Challenge/
+Link for the website: https://dhruv-232.github.io/Coding-Quiz/
 
 Link for Github Repository: https://github.com/Dhruv-232/Coding-Quiz
